@@ -3,7 +3,7 @@ let name = document.querySelector("h1");
 name.textContent = "Jane Doe";
 
 // 2. change the body background color to any color
-document.body.style.backgroundColor = "green";
+document.body.style.backgroundColor = "lightblue";
 
 // 3. change content with a 'quote' class to bold font
 let quote = document.querySelector(".quote");
