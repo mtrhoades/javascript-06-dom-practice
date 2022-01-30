@@ -9,7 +9,7 @@ document.body.style.backgroundColor = "green";
 let quote = document.querySelector(".quote");
 quote.style.fontWeight = "bold";
 
-// 4. hide content with the id of 'hideMe' (hint explore the css property 'display')
+// 4. hide content with the id of 'hideMe' (hint: explore the css property 'display')
 let hideMe = document.querySelector("#hideMe");
 hideMe.style.display = "none";
 
